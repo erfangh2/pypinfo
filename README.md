@@ -1,4 +1,4 @@
-# pypinfo: View PyPI download statistics with ease.
+مچ# pypinfo: View PyPI download statistics with ease.
 
 [![PyPI version](https://img.shields.io/pypi/v/pypinfo.svg?style=flat-square)](https://pypi.org/project/pypinfo)
 [![Supported Python versions](https://img.shields.io/pypi/pyversions/pypinfo.svg?style=flat-square)](https://pypi.org/project/pypinfo)
